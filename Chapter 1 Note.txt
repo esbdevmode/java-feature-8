@@ -1,0 +1,16 @@
+Content 1 -: Features of Jaba 1.8
+    -Lambda Expression.
+    -Functional interface.
+    -The default method in the interface. 
+    -Static method in interface.
+    -Predicate - Predefined Function
+    -Consumer - Predefined Function
+    -Function - Predefined Function
+    -Method reference & Constructed Reference by using [::]
+    -Stream API concept
+    -Date & Time API concepts ---------> [Joda API]
+    
+Content 2 -: Need for Java 1.8
+    -To simplify the programming. 
+    -To achieve functional-oriented programming in OOPS
+    -To enable parallel processing in Java 
